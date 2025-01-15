@@ -1,0 +1,17 @@
+{
+  "name": "Krackme Token",
+  "symbol": "KRACK",
+  "description": "The official token for the decentralized app Krackme.",
+  "image": "https://github.com/Tonjiro6/Krackme-image/raw/refs/heads/main/Krackme%20logo.webp",
+  "external_url": "https://krackme.app",
+  "attributes": [
+    {
+      "trait_type": "Utility",
+      "value": "Social Media Engagement"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ]
+}
